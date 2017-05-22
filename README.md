@@ -1,8 +1,8 @@
 Netherlands Institute for Neuroscience
 ======================================
 
-The purpose of this page is to encourage software collaboration among the NIN (and Spinoza?).
-To gain edit access to this wiki, please email Jonathan Williford from your NIN email and give your Github user.
+The purpose of this page is to encourage software collaboration among the NIN.
+If you are a member of the NIN and have a Github account, please email J.Williford from your NIN email account and give your Github username. It will then be easier for people to find your Github account and you will be able to edit this page.
 
 Research Groups
 ---------------
