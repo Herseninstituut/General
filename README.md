@@ -23,6 +23,7 @@ Public NIN Projects
 ### Lectures
 
 * [Series of Matlab minilectures created for ONWAR Matlab Course by Alexander Heimel](https://github.com/heimel/Matlab_minilectures)
+* [Series of Matlab minilectures created for ONWAR Matlab Course by Xing Chen](https://github.com/axienjii/matlab_demos)
 
 ### Analysis
 
