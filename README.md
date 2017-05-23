@@ -47,3 +47,4 @@ Log in and then go to https://github.com/account/organizations/new
 You can then apply for Academic status using instructions above.
 
 
+.
