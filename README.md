@@ -2,7 +2,7 @@ Netherlands Institute for Neuroscience
 ======================================
 
 The purpose of this page is to encourage software collaboration among the NIN.
-If you are a member of the NIN and have a Github account, please email J.Williford from your NIN email account and give your Github username. It will then be easier for people to find your Github account and you will be able to edit this page.
+If you are a member of the NIN and have a Github account, please email C. van der Togt <mailto:c.vandertogt@nin.knaw.nl> from your NIN email account and give your Github username. It will then be easier for people to find your Github account and you will be able to edit this page.
 
 Research Groups
 ---------------
